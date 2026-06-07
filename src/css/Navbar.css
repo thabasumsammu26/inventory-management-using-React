@@ -1,0 +1,26 @@
+.navbar {
+
+    background: linear-gradient(
+        90deg,
+        #4f46e5,
+        #7c3aed
+    );
+
+    color: white;
+
+    padding: 20px;
+
+    text-align: center;
+
+    box-shadow: 0px 4px 10px
+        rgba(0, 0, 0, 0.2);
+
+}
+
+.navbar h1 {
+
+    margin: 0;
+
+    font-size: 32px;
+
+}
